@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/yanjar/eclipse-workspace/mnist/build/CMakeFiles/bootloader
+/home/yanjar/eclipse-workspace/mnist/build/CMakeFiles/bootloader.rule
+/home/yanjar/eclipse-workspace/mnist/build/CMakeFiles/bootloader-complete.rule
+/home/yanjar/eclipse-workspace/mnist/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/yanjar/eclipse-workspace/mnist/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/yanjar/eclipse-workspace/mnist/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/yanjar/eclipse-workspace/mnist/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/yanjar/eclipse-workspace/mnist/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/yanjar/eclipse-workspace/mnist/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/yanjar/eclipse-workspace/mnist/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
